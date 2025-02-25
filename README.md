@@ -1,5 +1,5 @@
 # Project Name:
-US Population Dashboard from 2011 to 
+US Population Dashboard from 2011 to 2019
 
 ## Prerequisite libraries
 Here are the Python libraries used in the creation of this dashboard app:
